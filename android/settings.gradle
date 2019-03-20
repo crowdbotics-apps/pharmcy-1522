@@ -1,0 +1,3 @@
+rootProject.name = 'pharmcy_1522'
+
+include ':app'
